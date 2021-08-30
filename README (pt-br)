@@ -1,0 +1,19 @@
+# Sistema de Controle de Estoque
+
+## Autor
+
+- André Felipe Pereira dos Santos
+
+## Descrição
+
+Um sistema bem simples de controle de estoque, usando as tecnologias: HTML5, CSS3 com Bootstrap e PHP para o backend. O backend está estruturado numa arquitetura em 
+camadas e usando PDO para conexão com o banco de dados. Suas funcionalidades incluem:
+
+- Sistema de autenticação.
+- CRUD completo de produtos (insert, delete, list, view e edit).
+- Suporte a requisições assíncronas (REST), usando JSON.
+
+Este repositório possui:
+
+- O código-fonte desenvolvido para o backend e frontend.
+- O arquivo .mwb, contendo o modelo físico do banco de dados.
