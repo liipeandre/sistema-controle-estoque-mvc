@@ -1,18 +1,19 @@
-# Sistema de Controle de Estoque
+# Inventory Control System
 
-Um sistema bem simples de controle de estoque, desenvolvido por mim, usando as tecnologias: HTML5, CSS3 com Bootstrap e PHP para o backend. O backend está estruturado numa arquitetura em camadas (MVC) e usando PDO para conexão com o banco de dados. Suas funcionalidades incluem:
-
-- Sistema de autenticação.
-- CRUD completo de produtos (insert, delete, list, view e edit).
-- Suporte a requisições assíncronas (REST), usando JSON.
-
-## Autor
+## Author
 
 - André Felipe Pereira dos Santos
 
-## Descrição
+## Description
 
-Este repositório possui:
+A very simple inventory control system, using technologies: HTML5, CSS3 with Bootstrap and PHP for the backend. The backend is structured in an architecture in
+layers and using PDO to connect to the database. Its features include:
 
-- O código-fonte desenvolvido para o backend e frontend.
-- O arquivo .mwb, contendo o modelo físico do banco de dados.
+- Authentication system.
+- Complete CRUD of products (insert, delete, list, view and edit).
+- Support for asynchronous requests (REST), using JSON.
+
+This repository has:
+
+- Source code developed for the backend and frontend.
+- The .mwb file, containing the physical model of the database.
